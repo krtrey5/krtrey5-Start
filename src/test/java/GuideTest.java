@@ -66,6 +66,7 @@ public class GuideTest {
      */
     @Test
     public void basicsTest2(){
+        //test
 
         String inputMessage = "test";
         String expected = "Success from guide object 1! it says: test";
